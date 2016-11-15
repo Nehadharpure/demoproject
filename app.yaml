@@ -1,8 +1,9 @@
 application:  a2rproject-148908
 version: 1
+module:demoproject
 runtime: php55
 api_version: 1
-threadsafe: yes
+threadsafe: true
 
 handlers:
 - url: /
